@@ -9,8 +9,8 @@
 | 5  | A virtual private network service that allows you to create isolated networks within the cloud provider's infrastructure. | VPC | Virtual Network   | Virtual Private Cloud (VPC)         |
 | 6  | A content delivery network (CDN) service that delivers data, videos, applications, and APIs globally with low latency. | CloudFront  | Azure CDN                          | Cloud CDN                           |
 | 7  | A managed NoSQL database service designed for low-latency, high-scale applications.  | DynamoDB            | Azure Cosmos DB          | Firestore/Datastore                           |
-| 8  | A block storage service for use with virtual machines, offering persistent storage for data.   | EBS           | Managed Disks        | Persistent Disk                     |
-| 9  | A managed container orchestration service based on Kubernetes.   | EKS    | Azure Kubernetes Service (AKS)     | Google Kubernetes Engine (GKE)      |
+| 8  | A block storage service for use with virtual machines, offering persistent storage for data.   | EBS (Elastic Block Store)          | Managed Disks        | Persistent Disk                     |
+| 9  | A managed container orchestration service based on Kubernetes.   | EKS-Elastic Kubernetes Service    | Azure Kubernetes Service (AKS)     | Google Kubernetes Engine (GKE)      |
 | 10 | A service for managing user access and encryption keys to secure cloud resources.| AWS IAM  | Azure Active Directory    | Cloud Identity and Access Management (IAM) |
 | 11 | A platform that automates application deployment and scaling without needing to manage infrastructure. | Elastic Beanstalk | Azure App Service  | App Engine                          |
 | 12 | A service that provides monitoring and logging of applications and infrastructure, offering insights into resource usage and performance. | CloudWatch   | Azure Monitor                       | Stackdriver (Operations Suite)      
