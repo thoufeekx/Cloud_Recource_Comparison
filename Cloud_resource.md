@@ -3,7 +3,7 @@
 | #  | Description                                                                                           | AWS (Service Name)              | Azure (Service Name)                | Google Cloud (Service Name)         |
 |----|-------------------------------------------------------------------------------------------------------|----------------------------------|-------------------------------------|-------------------------------------|
 | 1  | A compute service that provides scalable virtual machines for running applications.  | EC2(Elastic Compute)  | Azure Virtual Machines   | Google Compute Engine                      |
-| 2  | An object storage service used to store and retrieve data, commonly used for backups and static website content. | S3   | Blob Storage          | Cloud Storage                       |
+| 2  | An object storage service used to store and retrieve data, commonly used for backups and static website content. | Simple Storage Service-S3   | Blob Storage          | Cloud Storage                       |
 | 3  | A managed relational database service that supports multiple database engines like MySQL, PostgreSQL, and SQL Server. | RDS| Azure SQL Database                  | Cloud SQL                           |
 | 4  | A serverless compute service that allows you to run code in response to events without provisioning or managing servers. | Lambda   | Azure Functions                     | Cloud Functions                     |
 | 5  | A virtual private network service that allows you to create isolated networks within the cloud provider's infrastructure. | VPC | Virtual Network   | Virtual Private Cloud (VPC)         |
