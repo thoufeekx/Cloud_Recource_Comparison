@@ -8,7 +8,7 @@
 | 4  | A serverless compute service that allows you to run code in response to events without provisioning or managing servers. | Lambda   | Azure Functions                     | Cloud Functions                     |
 | 5  | A virtual private network service that allows you to create isolated networks within the cloud provider's infrastructure. | VPC | Virtual Network   | Virtual Private Cloud (VPC)         |
 | 6  | A content delivery network (CDN) service that delivers data, videos, applications, and APIs globally with low latency. | CloudFront  | Azure CDN                          | Cloud CDN                           |
-| 7  | A managed NoSQL database service designed for low-latency, high-scale applications.  | DynamoDB            | Azure Cosmos DB          | Firestore                           |
+| 7  | A managed NoSQL database service designed for low-latency, high-scale applications.  | DynamoDB            | Azure Cosmos DB          | Firestore/Datastore                           |
 | 8  | A block storage service for use with virtual machines, offering persistent storage for data.   | EBS           | Managed Disks        | Persistent Disk                     |
 | 9  | A managed container orchestration service based on Kubernetes.   | EKS    | Azure Kubernetes Service (AKS)     | Google Kubernetes Engine (GKE)      |
 | 10 | A service for managing user access and encryption keys to secure cloud resources.| AWS IAM  | Azure Active Directory    | Cloud Identity and Access Management (IAM) |
