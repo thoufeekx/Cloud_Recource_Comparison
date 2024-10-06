@@ -29,9 +29,9 @@
 | 25 | A desktop as a service (DaaS) offering that allows you to deploy virtual desktops in the cloud and access them remotely. | WorkSpaces    | Azure Virtual Desktop            | Google Cloud Virtual Desktop   |
 | 26 | A backup and disaster recovery service that helps to protect your data by creating backups and replicas of your cloud resources. | AWS Backup     | Azure Backup                       | Cloud Backup                        |
 | 27 | A service designed for big data analytics, allowing organizations to store, process, and analyze large datasets in real time. | EMR-Elastic Map Reduce      | HDInsight                          | Dataproc                            |
-| 28 | A file storage service for storing and sharing files with users, typically used in shared file systems across applications. | EFS    | Azure Files                        | Filestore                           |
+| 28 | A file storage service for storing and sharing files with users, typically used in shared file systems across applications. | EFS-Elastic File System   | Azure Files                        | Filestore                           |
 | 29 | A service that helps you transcode, process, and stream media content such as video and audio.  | Elastic Transcoder    | Azure Media Services  | Transcoder API                      |
-| 30 | A real-time communication service used for sending notifications, emails, and text messages to users and devices. | SNS     | Azure Notification Hubs   | Firebase Cloud Messaging     |
+| 30 | A real-time communication service used for sending notifications, emails, and text messages to users and devices. | SNS-Simple Notification Service     | Azure Notification Hubs   | Firebase Cloud Messaging     |
 
 ---
 
