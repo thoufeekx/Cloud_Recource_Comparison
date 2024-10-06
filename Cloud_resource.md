@@ -16,8 +16,8 @@
 | 12 | A service that provides monitoring and logging of applications and infrastructure, offering insights into resource usage and performance. | CloudWatch   | Azure Monitor                       | Stackdriver (Operations Suite)      
 | 13 | A domain name system (DNS) service that routes traffic globally and translates domain names to IP addresses. | Route 53    | Azure DNS    | Cloud DNS                           |
 | 14 | A load balancing service that distributes incoming network traffic across multiple targets, improving application availability. | Elastic Load Balancer (ELB)      | Azure Load Balancer                 | Cloud Load Balancing                |
-| 15 | A service that automatically scales your cloud infrastructure based on demand, ensuring resources are available as needed. | Auto Scaling     | Azure Autoscale                    | Autoscaler                          |
-| 16 | A message queuing service that enables applications to send and receive messages between different components. | SQS   | Azure Queue Storage       | Pub/Sub                        
+| 15 | A service that automatically scales your cloud infrastructure based on demand, ensuring resources are available as needed. | Auto Scaling     | Azure Virtual Machine Scale | Autoscaler                          |
+| 16 | A message queuing service that enables applications to send and receive messages between different components. | SQS-Simple Queue Service   | Azure Queue Storage       | Pub/Sub                        
 | 17 | A managed real-time data streaming service that collects and processes large amounts of data from various sources. | Kinesis      | Azure Event Hubs       | Dataflow                            |
 | 18 | A fully managed, highly scalable data warehouse service optimized for analytics and large-scale queries. | Redshift   | Azure Synapse Analytics       | BigQuery                            |
 | 19 | A service that automates the execution of workflows and allows the integration of different cloud services in a sequence of steps. | Step Functions        | Logic Apps                         | Cloud Workflows                     |
